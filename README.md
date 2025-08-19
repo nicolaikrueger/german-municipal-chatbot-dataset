@@ -29,6 +29,23 @@ df = pd.read_csv('german_municipal_chatbots.csv')
 print(f"Chatbot adoption rate: {df['Chatbot_vorhanden'].mean():.2%}")
 ```
 
+## Data Availability
+
+The dataset is permanently archived and citable at:  
+**DOI:** [10.5281/zenodo.XXXXXX](https://doi.org/10.5281/zenodo.XXXXXX)
+
+**Why Zenodo?** Zenodo is a research data repository operated by CERN that provides:
+- ✅ **Permanent preservation** - guaranteed long-term access
+- ✅ **DOI assignment** - makes data scientifically citable
+- ✅ **Version control** - tracks dataset updates over time
+- ✅ **FAIR principles** - Findable, Accessible, Interoperable, Reusable data
+
+**This GitHub repository** serves as the **working space** for:
+- 📊 Data exploration and analysis
+- 📄 Paper development and supplementary materials  
+- 🤝 Community collaboration and contributions
+- 📈 Living documentation and methodology updates
+
 ## Citation
 
 ```bibtex
