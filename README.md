@@ -1,6 +1,7 @@
 # German Municipal AI Chatbot Dataset
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16902154.svg)](https://doi.org/10.5281/zenodo.16902154)
 
 ## Overview
 
@@ -32,7 +33,7 @@ print(f"Chatbot adoption rate: {df['Chatbot_vorhanden'].mean():.2%}")
 ## Data Availability
 
 The dataset is permanently archived and citable at:  
-**DOI:** [10.5281/zenodo.XXXXXX](https://doi.org/10.5281/zenodo.XXXXXX)
+**DOI:** [10.5281/zenodo.16902154](https://doi.org/10.5281/zenodo.16902154)
 
 **Why Zenodo?** Zenodo is a research data repository operated by CERN that provides:
 - ✅ **Permanent preservation** - guaranteed long-term access
